@@ -1,0 +1,15 @@
+Package: odds
+Type: Package
+Title: Functions for Gambling
+Version: 0.1.0
+Author: Tatiana Santos <tatianas@usc.edu>
+Description: Functions for working with fractional and decimal odds
+License: LGPL
+LazyData: TRUE
+Imports:
+    MASS
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
+URL: http://github.com/omgtatis/odds.git
+BugReports: http://github.com/omgtatis/odds/issues
